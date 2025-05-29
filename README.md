@@ -1,2 +1,1 @@
-# Challenge
-Patient Journey Challenge reference 
+These patients are from MITRE and SyntheticMass
